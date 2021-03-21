@@ -1,0 +1,29 @@
+{
+  "name": "abadu/animated-avatars",
+  "description": "Make your avatar move it move it!",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "0BSD",
+  "require": {
+    "flarum/core": ">=0.1.0-beta.16 <=0.1.0"
+  },
+  "authors": [],
+  "autoload": {
+    "psr-4": {
+      "Abadu\\AnimatedAvatars\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Animated Avatars",
+      "category": "features",
+      "icon": {
+        "name": "fas fa-cat",
+        "backgroundColor": "#238c59",
+        "color": "#fff"
+      }
+    }
+  }
+}

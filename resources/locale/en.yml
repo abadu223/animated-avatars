@@ -1,0 +1,14 @@
+animated-avatars:
+  forum:
+    change-btn-text: "Upload"
+    modal:
+      upload:
+        title: Upload image
+        next: Next
+  admin:
+    permissions:
+      label: "Animated Avatars"
+      add_gif: "User can add gif"
+    modal:
+      settings:
+        title: Animated Avatars Settings
